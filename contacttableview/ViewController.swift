@@ -36,6 +36,9 @@ class ViewController: UIViewController {
     
         
     }
+    func nothing() -> Void {
+        print("good night")
+    }
 
 }
 
